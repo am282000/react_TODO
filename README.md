@@ -30,9 +30,13 @@ For more details checkout [Notes](https://1drv.ms/o/s!AmoVfaIN_qP9i5FfUZIgCIrfVd
 
 ### Deploying it live on [vercel.com](https://vercel.com/)
 
-##### Final look
+### Final look
 
-![Register Page](assets/register.png)
-![Login Page](assets/login.png)
-![Home Page](assets/home.png)
-![Profile Page](assets/profile.png)
+1. Register Page
+   ![Register Page](./src/assets/register.png)
+2. Login Page
+   ![Login Page](./src/assets/login.png)
+3. Home Page
+   ![Home Page](./src/assets/home.png)
+4. Profile Page
+   ![Profile Page](./src/assets/profile.png)
