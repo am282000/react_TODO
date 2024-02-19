@@ -28,7 +28,7 @@ It consist of various CRUD operaions.
 API is hosted on [link](https://todo-app-rpcb.onrender.com/)
 For more details checkout [Notes](https://1drv.ms/o/s!AmoVfaIN_qP9i5FfUZIgCIrfVdZM2w?e=bLN7ec)
 
-### Deploying it live on [vercel.com](https://vercel.com/)
+### Deploying it live on [my-todo-tasks.vercel.app](https://my-todo-tasks.vercel.app/)
 
 ### Final look
 
